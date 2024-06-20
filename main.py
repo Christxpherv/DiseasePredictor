@@ -86,6 +86,3 @@ def predictDisease(symptoms):
         "final_prediction": final_prediction
     }
     return predictions
-
-# testing
-print(predictDisease("Itching,Skin Rash,Nodal Skin Eruptions"))
